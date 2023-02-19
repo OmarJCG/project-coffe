@@ -356,7 +356,7 @@ img {
   font-size: var(--h2-font-size);
   font-family: var(--second-font);
   font-weight: var(--font-regular);
-  line-height: 120%;
+  line-height: 120%; 
 }
 
 /*=============== ABOUT ===============*/
